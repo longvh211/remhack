@@ -9,13 +9,13 @@ _Usage Instructions:_
 
 ![image](https://user-images.githubusercontent.com/37789938/167763440-1307ec09-daaa-4c72-8acc-53f58850a617.png)
 
-2.	Open Remnant: From The Ashes. Create a session or join another's session (Campaign / Adventure). Wait for your character to spawn.
+2.	Open Remnant: From The Ashes. Create your own session or join someone's session (Campaign / Adventure). Wait for your character to spawn.
 
 ![image](https://user-images.githubusercontent.com/37789938/167763402-11895321-b024-4dcd-a64c-d8cf8a3f24c8.png)
 
 3.	After the character is spawned, make sure that the Melee Speed trait is at level 19.
 
-![image](https://user-images.githubusercontent.com/37789938/167762924-d9138e71-2de5-444f-b492-5b22b12b777a.png)
+![image](https://user-images.githubusercontent.com/37789938/167770575-37634faf-295a-418e-81b7-ce8d0412e496.png)
 
 5.	Run the remhack.exe from the Start Menu. The program will automatically scan the game and apply the hacks accordingly.
 
