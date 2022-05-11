@@ -1,4 +1,4 @@
-# remhack
+# Remhack 1.0
 Educational hack demonstrating the Memory.dll Nuget package application for the game Remnant: From The Ashes version 275,957SCDP.
 The hack requires the character to be under trait level 19 for Melee Speed (mandatory) and Fire Rate, Movement Speed, Reload Rate and Consume Speed (optional). 
 Usable in Campaign and Adventure mode.
