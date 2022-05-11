@@ -25,6 +25,8 @@ _Usage Instructions:_
 
 ![image](https://user-images.githubusercontent.com/37789938/167763048-a38f44cd-9657-4721-835d-ffe97332946a.png)
 
+If your character died (not fainted), you will need to rescan again to apply the hacks as the game allocates a new address set every time your character dies.
+
 _Notes_
 
 1.  Further instructions are provided in remhack.exe. Whenever there is a problem with the hack, you can try doing one of the suggestions remhack suggests on the  problem it finds.
