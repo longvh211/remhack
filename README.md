@@ -5,6 +5,9 @@ Usable in Campaign and Adventure mode.
 
 _Usage Instructions:_
 
+Prerequesites:
+You need to install .Net 6 Runtime first: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
 1.	Download and install remhack.exe. Once done, a shortcut to the remhack.exe will be placed in the Start Menu.
 
 ![image](https://user-images.githubusercontent.com/37789938/167763440-1307ec09-daaa-4c72-8acc-53f58850a617.png)
