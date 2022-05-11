@@ -153,7 +153,7 @@ namespace HackMethods
             foreach (var address in currentAddresses)
             {
                 mem.UnfreezeValue(address.Key);
-                mem.WriteMemory(address.Key, "float", address.Value);
+                mem.WriteMemory(address.Key, "float", address.Value);   //Restore original values
             }
                             
             currentAddresses.Clear();
