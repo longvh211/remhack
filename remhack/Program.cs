@@ -58,6 +58,7 @@ h.Apply(AOB.ConsumeSpd.name, AOB.ConsumeSpd.aob, AOB.ConsumeSpd.val);
 success.Play();
 
 ////Maintain hacks
+////Disabled due to performance - taxing.
 //if (h.ToRescan())
 //    goto DoHacks;
 
