@@ -31,3 +31,6 @@ _Notes_
 2.  The game may crash if you changes equipment too often while the hacks are currently applied. To prevent this, simply defrost the memory first (option "s") before making any changes to the equips. Once done with the change, rescan the memory again (option "r") to reapply the hacks.
 
 ![image](https://user-images.githubusercontent.com/37789938/167763763-fd594a16-eec0-4472-a6d2-c0dee5a4bd8a.png)
+
+Credits:
+Memory.dll (https://newagesoldier.com/memory.dll/trainers)
