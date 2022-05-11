@@ -27,7 +27,7 @@ _Usage Instructions:_
 
 _Notes_
 
-1.  Further instructions are provided in remhack.exe. Whenever there is a problem with the hack, you can try doing one of the suggestions remhack.exe suggests on the  problem it finds.
+1.  Further instructions are provided in remhack.exe. Whenever there is a problem with the hack, you can try doing one of the suggestions remhack suggests on the  problem it finds.
 2.  The game may crash randomly if you change equipments too often while the hacks are currently applied. To prevent this, simply defrost the memory first (option "s") before making any changes to the equips. Once done changing, rescan the memory again (option "r") to reapply the hacks.
 
 ![image](https://user-images.githubusercontent.com/37789938/167763763-fd594a16-eec0-4472-a6d2-c0dee5a4bd8a.png)
